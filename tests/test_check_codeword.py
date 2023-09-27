@@ -1,4 +1,4 @@
-from codeword_checker import *
+from lib.check_codeword import check_codeword
 
 def test_correct_codeword():
     result = check_codeword("horse")
